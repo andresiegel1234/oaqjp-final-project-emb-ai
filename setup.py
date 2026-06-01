@@ -15,7 +15,7 @@ setup(
             'emotiondetection=app:main',  
         ],
     },
-    author='Your Name',
+    author='Andre',
     description='Emotion Detection AI Application',
     classifiers=[
         'Programming Language :: Python :: 3',
